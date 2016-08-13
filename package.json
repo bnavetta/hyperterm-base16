@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-base16",
+  "version": "1.0.0",
+  "description": "Hyperterm plugin for base16 themes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roguePanda/hyperterm-base16.git"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Ben Navetta <ben.navetta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roguePanda/hyperterm-base16/issues"
+  },
+  "homepage": "https://github.com/roguePanda/hyperterm-base16#readme"
+}
